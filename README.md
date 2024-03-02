@@ -1,5 +1,5 @@
-### NBRVALUES R Statistical Package
-## Developer: Joel Chavez
+ NBRVALUES R Statistical Package
+ Developer: Joel Chavez
 ## Website: https://realjoelchavez.com
 <!--
 **nbrvalues/nbrvalues** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
